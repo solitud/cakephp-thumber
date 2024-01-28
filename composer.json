@@ -10,12 +10,18 @@
             "email": "mirko.pagliai@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "url": "https://github.com/solitud/php-tools.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "php": ">=5.5.9 <7.4",
         "cakephp/cakephp": "^3.3.4",
         "intervention/image": "^2.4",
-        "solitud/php-thumber": "dev-php5.6 as 1.2.3",
-        "solitud/php-tools": "dev-php5.6 as 1.4.8"
+        "mirko-pagliai/php-thumber": "dev-php5.6 as 1.2.3",
+        "mirko-pagliai/php-tools": "dev-php5.6 as 1.4.8"
     },
     "require-dev": {
         "cakephp/cakephp-codesniffer": "^3.0|^4.0",

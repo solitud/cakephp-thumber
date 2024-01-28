@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9 <7.4",
+        "php": ">=5.5.9 <8",
         "cakephp/cakephp": "^3.3.4",
         "intervention/image": "^2.4",
         "mirko-pagliai/php-thumber": "dev-php5.6 as 1.2.3",
